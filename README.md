@@ -68,13 +68,6 @@
 </p>
 
 
-<br/>
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/Tabarksayed/Tabarksayed/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 
 
 
