@@ -79,7 +79,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="http://linkedin.com/in/tabark-allah">
+  <a href="https://www.linkedin.com/in/tabark-allah-sayed-7a269b26a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:allahtabark40@gmail.com">
